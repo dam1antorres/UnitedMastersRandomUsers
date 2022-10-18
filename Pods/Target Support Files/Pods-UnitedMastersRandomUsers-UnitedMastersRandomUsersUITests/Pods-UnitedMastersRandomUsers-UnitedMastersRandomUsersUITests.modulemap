@@ -1,0 +1,6 @@
+framework module Pods_UnitedMastersRandomUsers_UnitedMastersRandomUsersUITests {
+  umbrella header "Pods-UnitedMastersRandomUsers-UnitedMastersRandomUsersUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
